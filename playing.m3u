@@ -328,6 +328,11 @@ http://103.159.180.34:5001/live/165.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://stream.ottplus.live/live/hum_tv_abr/index.m3u8" group-title="HINDI", HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="INDIAN BANGLA", Star Jalsha HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/80?text=TV" group-title="INDIAN BANGLA", Star Jalsha SD
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
+
 
 # ==========================================
 #         MUSIC
