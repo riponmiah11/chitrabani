@@ -61,7 +61,6 @@ https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", EP TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BANGLA", News 21 Bangla TV
@@ -183,6 +182,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
 #EXTINF:-1 tvg-logo="" group-title="INDIAN BANGLA", Akash Aath
 http://103.159.180.34:5001/live/698.m3u8
+#EXTINF:-1 group-title="Indian Bangla", Star Jalsha
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.114.11.37%3A8081%2FStar-Jalsha%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Ddsfsdfsdfsdf
 
 # ==========================================
 #         HINDI
