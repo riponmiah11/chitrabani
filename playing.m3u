@@ -99,6 +99,9 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxbAnms3wM7UTOyW4sw_5xIwsquoNHfi2OL-Gu0eLQ4gitnTwa-nzPxB9US9xThsmSZOpIUkS68z6ci50Bh6teWC5F174ctf1SsL57oYKNYLvm3ANR7q3qW6mU4mpnNpkDhgZt6oV9jprs6zgIul_GrAcmQZqIKzg64KHZS6ULaBpg-5F_V10Q5znxg/s1080/1000019126.png" group-title="BANGLA", Channel S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="BANGLA", Ruposhi Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Bangla+%20plus.jpg?raw=true" group-title="BANGLA", Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8" group-title="BANGLA", Ten Prime
@@ -159,14 +162,8 @@ https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdE
 # ==========================================
 #         INDIAN BANGLA
 # ==========================================
-#EXTINF:-1 tvg-logo="" group-title="INDIAN BANGLA", Amar Bangla
-http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDIAN BANGLA",Aamar Digital
-http://115.187.41.216:8080/hls/amardigital/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="INDIAN BANGLA", Star Jalsha
 https://s3.outflanktv.workers.dev/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8
-#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="INDIAN BANGLA", Ruposhi Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLylineH32gc5e5_hW3dapwWgXQO4oSPf8FJEnj047XyYjUbb_hsKJyi5ulNmzl24dEGPEV3cqvauP39_03inDQdtA6sy31JozqvjQRxPLsK_JGHasJJ3np1nh8X_WG1ZusRAO5Vr4t0VaHv320ARzeNeDiFKIp8rDWUDUbWnJEXk_r4uyKVFALer9UQ/s600/Nur_20251219_134652_0000.png" group-title="INDIAN BANGLA", TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="INDIAN BANGLA", Sananda TV
@@ -229,6 +226,10 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=8f95c9cd-6940&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDM4Mzg5OCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NjQ2NzY1MiwiaWF0IjoxNzg2NDYwNDUyLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiJmZDA0NjUzZS05NWY0LTQyYWMtYTk1Mi04MTdhODQ3ODJjMTMiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiOGY5NWM5Y2QtNjk0MCJ9.SydM1K17oQKog6JBCOMXczghE6-TZCOpwn4NaLsXfXwWPynOlRNJtTAnDQjwOv24bHnjzgKz6x_OEWczL32JBqO5TXwe3tIGqB5b_iM3hl1RlcjUZGryeUWa5MQ0-t3Yer6CD_LONnTa5zcHS8QUj8FMmbzIXsCuX0i-luRBMl_viJ8rxi3yfRaPHyZSCU9TtG_KREysBneAYqNkfEw2J4Ud9OAaM0fMnTeUyq05LQX-GPnzj164s_4qqdxV96fTREM6xMMm2Nu6yGM8EGwhM-eVvktBCVJExTZjpima8OEyIfTu3r0N9udbkZ7Dyr5WYC7cJ4oL3KkUnf-GAxGnTQ
 
+#EXTINF:-1 tvg-logo="" group-title="INDIAN BANGLA", Amar Bangla
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDIAN BANGLA",Aamar Digital
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
 
 
 # ==========================================
