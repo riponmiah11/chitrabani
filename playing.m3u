@@ -210,9 +210,10 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="INDIAN BANGLA", Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="INDIANa BANGLA",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="INDIAN BANGLA",Zee Bangla HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.m3u8
 http://103.159.180.34:5001/live/625.m3u8
+
 
 
 
@@ -220,6 +221,13 @@ http://103.159.180.34:5001/live/625.m3u8
 http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytBSlHIUldzM19w8wu3NjilfQyZ8UcgzOCesJF0fstDxvu6r4WARzuTxt4On4lQxkfNUwri-4ZmOF4b_VyuTkRpfLTf3IgIz_vYLQ7RddgAPxPqubbSf571wk_DQlAA6wk4dWV5b_4zYQ1-LcwX_d6RQodEXkz3kGrrkFKw3KHvly4RiQ4BReeCCY_A/s1080/1000062562.png" group-title="INDIAN BANGLA", Sananda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
+
+
+#EXTINF:-1 tvg-id="143" tvg-name="ZEE BANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1756017182009.png" group-title="Entertainment",ZEE BANGLA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=8f95c9cd-6940&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDM4Mzg5OCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NjQ2NzY1MiwiaWF0IjoxNzg2NDYwNDUyLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiJmZDA0NjUzZS05NWY0LTQyYWMtYTk1Mi04MTdhODQ3ODJjMTMiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiOGY5NWM5Y2QtNjk0MCJ9.SydM1K17oQKog6JBCOMXczghE6-TZCOpwn4NaLsXfXwWPynOlRNJtTAnDQjwOv24bHnjzgKz6x_OEWczL32JBqO5TXwe3tIGqB5b_iM3hl1RlcjUZGryeUWa5MQ0-t3Yer6CD_LONnTa5zcHS8QUj8FMmbzIXsCuX0i-luRBMl_viJ8rxi3yfRaPHyZSCU9TtG_KREysBneAYqNkfEw2J4Ud9OAaM0fMnTeUyq05LQX-GPnzj164s_4qqdxV96fTREM6xMMm2Nu6yGM8EGwhM-eVvktBCVJExTZjpima8OEyIfTu3r0N9udbkZ7Dyr5WYC7cJ4oL3KkUnf-GAxGnTQ
 
 
 
