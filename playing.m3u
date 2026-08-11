@@ -4,17 +4,6 @@
 #         BANGLA
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png" group-title="INDIAN BANGLA", Zee Banglaa 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?drmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-
-#EXTINF:-1 tvg-id="118" tvg-name="Sony Sports TEN 10" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png" group-title="Sportss",Sony Sports TEN 10
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=35fee7f3-d55d&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDM4Mzg5OCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NjQ2NzY1MCwiaWF0IjoxNzg2NDYwNDUwLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiJkM2RhODk4Zi0yMTE0LTRjNjUtOTcxYy04M2M3MzliNDVjMWUiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiMzVmZWU3ZjMtZDU1ZCJ9.FUBQPKGQAycDVzS2mEULBxlt1oFF76pvH8GZTA-1rIGwRAwLEghyZce3gLN4pJ5-5fgfKmalQAkm21lKM0fP06GpiOPGPKWdFOYKl_M1_t2Yo5GE3rXAdlZ4oxawfUmG9oTrICfg7AmrXb4fXO9SX53r4J77jDehyhIAnBu-b3kupnjLqoom0hKkkVZFehFr52JGsgMbT_1FdlI9q0RIdK4s43lAImTSpuiw-CkXgKc02zXqTM-R_Q_jz9RApaiC1hoFVEIKMPw2mfgGHYs8_H227wbXHfA6BJCxDQvx_tJ1XMWvayhw6azIoCOZK7Qk1E4NXQgOQIL90mdwZkSmvw
-
-
-
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg" group-title="BANGLA", Asian TV
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/3a36a406fcc9616cd0b32514bb29eb36.jpg" group-title="BANGLA", ATN Bangla
@@ -169,6 +158,25 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3a0LPeoUyrCTegR1enzdiYZdKvM7kWsXn_Em5StQCB7WmHPXFr-RgcEQEPj9EzkCZIE27QxiCdRfoGBCOM1sax6Ux4z20b24QEyur77sS-5Bt6Acu7Yg-Cmihzimws3eUqqAkp5rqcirstEUkUOMVqMYfhjT9e6WtNttsPUpi5_yEQG7nhOVBJxEVQ/s1080/1000059164.png" group-title="BANGLA", Channel 1 HD
 https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
+
+
+# ==========================================
+#         Test Channel
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLGh3jBaFGi3aJ268uiSgrB8_NJ6-YykP-MsSjs10MPnH0kVeYtXDavXPC6jpSrkQnMsWnREbOsKhSVVbgIStlENdqSpQP5Mx0G7DUi2jzNBqleK3Xe2DTWyPB_JB73rG4x3p0kJus1lokClSDo80PTdU70eE1-DzgoqJ8Hu9Z2mtj1aSnV7DhxeYT1A/s1080/1000062561.png" group-title="INDIAN BANGLA", Sun Bangla
+https://broadcast.iptvchannels.workers.dev/live.m3u8?id=1669
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTFpKLo5cYb54zMuUNtSaJOOxK0aQKrC-VJ6a0_XIspxxk0aX178b0z3oO1Xn8qIiE7Jmrw3bv06A4axit55KEFhS6vgmcTo0cUqXhlbZh0IYNkPdomla8SJR7bvlBV2hGKeDDwQyzyztAWhyphenhyphenodRZ6FXnYIbNdoBoxdECEpNQBPDeTFkAh2zqISTWvag/s600/Nur_20251107_002115_0000.png" group-title="INDIAN BANGLA", Zee Banglaa 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?drmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
+
+#EXTINF:-1 tvg-id="118" tvg-name="Sony Sports TEN 10" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1762853147045.png" group-title="Sportss",Sony Sports TEN 10
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=35fee7f3-d55d&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDM4Mzg5OCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NjQ2NzY1MCwiaWF0IjoxNzg2NDYwNDUwLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiJkM2RhODk4Zi0yMTE0LTRjNjUtOTcxYy04M2M3MzliNDVjMWUiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiMzVmZWU3ZjMtZDU1ZCJ9.FUBQPKGQAycDVzS2mEULBxlt1oFF76pvH8GZTA-1rIGwRAwLEghyZce3gLN4pJ5-5fgfKmalQAkm21lKM0fP06GpiOPGPKWdFOYKl_M1_t2Yo5GE3rXAdlZ4oxawfUmG9oTrICfg7AmrXb4fXO9SX53r4J77jDehyhIAnBu-b3kupnjLqoom0hKkkVZFehFr52JGsgMbT_1FdlI9q0RIdK4s43lAImTSpuiw-CkXgKc02zXqTM-R_Q_jz9RApaiC1hoFVEIKMPw2mfgGHYs8_H227wbXHfA6BJCxDQvx_tJ1XMWvayhw6azIoCOZK7Qk1E4NXQgOQIL90mdwZkSmvw
+
+
 
 
 # ==========================================
