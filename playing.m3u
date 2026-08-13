@@ -216,6 +216,8 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="INDIAN BANGLA",Zee Bangla
+http://103.159.180.34:5001/live/625.m3u8
+http://103.165.93.31:8095/zeeBangla/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/225786.m3u8
 http://103.159.180.34:5001/live/625.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
@@ -567,6 +569,7 @@ https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CARTOON/KIDS", MiniMax
 https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="CARTOON/KIDS", Nick Bangla
+http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://i2-prod.mirror.co.uk/article33809942.ece/ALTERNATES/s1200f/2_nickelodeon_old_logo.png" group-title="CARTOON/KIDS", Nickelodeon
 http://103.151.60.188:12345/hls/tab_dikcz6r/index.m3u8
