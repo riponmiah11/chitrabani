@@ -589,9 +589,19 @@ http://103.151.61.12/zbcatun/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 # ==========================================
 #         DOCUMENTARY
 # ==========================================
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="DOCUMENTARY",Discovery Channel Bengali
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="DOCUMENTARY",Discovery Bangla
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/DiscoveryBD.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjclA_gDBqUdomkP0VQd2BBOOKbwf2a1WFl2lfjyj_barMq0ZgVMSrPtKDgFXF7pK3NZeSvT1tEerTbalzt-6n-OgNl2acWlkbXEVUZvzddfLy33ETUGtaeTF5hoMt5JqH6lZqQX_Md36hs2zkTEueFEwe_ziznQruJLGx78nUhSgW3zr9iDAJHf_XXBQ/s600/Nur_20251215_125830_0000.png" group-title="DOCUMENTARY", Discovery HD
+https://broadcast.iptvchannels.workers.dev/live.m3u8?id=3444
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmXfl5LEm632YDgJh2KmO3_EAmMRkzTjuQublDb22BFQ4vgXlREAguqUum4PUk_Wr_D_FMfHld-c_PfVoQNUY8aVei4D71aRJjXtUBEd1NEz0hUwfbrIwO3Ju6j5toAZrdovsLrnSdfhI6VyNHyWmNh0ELZ63diKkczBr7bSZvc8mV2CA1H_Huvav3vw/s1080/1000015299.png" group-title="DOCUMENTARY", Discovery Science
+https://stream.ottplus.live/live/discovery_science_abr/index.m3u8
+https://login.bheem.tv/bpk-tv/22076/output/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY", Discovery Pakistan
+https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=573
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTqM3jmM6eqtFtsp-nPt1DeUeLsQrXZJhkj77aJRmwRym4Y8tHAymBEfnw1wCKEAo4ZpbItQxWPYY2zOgL01AZw6k8geabq6Dp0e0ZQh8slrzBro9NBjm_jZvMD1XH1bblDGjl1qYZ7gUdCrLYgvEyfr6Rb32V-ExmQiW6ZSSeM4XQnaeAzfyhFu57kA/s1080/1000019821.png" group-title="DOCUMENTARY", Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="DOCUMENTARY", History TV
 https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="DOCUMENTARY", Travel XP English
@@ -602,11 +612,8 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY", Delicious HD
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY", Discovery
-http://202.70.146.135:8000/play/a05z/index.m3u8
-https://login.bheem.tv/bpk-tv/22076/output/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY", Discovery Pakistan
-https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY", Love Nature
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="DOCUMENTARY", National Geographic HD Bangla
