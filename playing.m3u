@@ -184,10 +184,14 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgggfNwc2E_oHEi9_UJQlWjmFel17nm58hP20KEcV3EDKk5DIhrqrC_pfJ75tYASSvyfxfUQqTJedxu1GdoxkyxVLzxbN-nzyGQil-KqruWtWK2Qlf-KRc5YalGd2ulUXjlzC4j3AkHmr8_MwMfOBzHGH9jvvNR43KK747_OIhpfMqbPM-Kx15TwvdMaQ/s600/Nur_20251219_134716_0000.png" group-title="INDIAN BANGLA", DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV1py3jfF1GxTt9mLp4FaGPh_VSQkb7vlAkk6gM4lyaZ-VpKGcZjvj1bAj5XGM2z6FzZ-YcF5ypK3eSqTdiJWbUwfAcpo9gpp46XzFPdyuqWwJpN8CJVD2Eccw7THi60xgJ9rMkm-i8S83s4x6ZAO27kALxlY7ulLkwIO4CEuMz40yvj52A7yxCM1Ng/s600/Nur_20251107_000734_0000.png" group-title="INDIAN BANGLA", Aakash Aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="1657" tvg-name="Colors Bangla Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="JioTV+ | Bengali",Colors Bangla Cinema
+http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="INDIAN BANGLA",Colors Bangla HD
-https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmdOa-FrjsbmHkj3fe8cdJs7wCr8LqP44W8eCN4dB9tg-khIKtKCqyodP9MZtLtOKPRVYRHTy268xxlfWub0v5GqHWtG0wBAbfkF_uBu4vICj0EgBz3B6SQnasWV9LOi_ye4_FqTWCspD09E3Rlcwm6jESgLacRCxkb-aIorG9dZyD74alcdIxpSzYQ/s600/Nur_20251219_135028_0000.png" group-title="INDIAN BANGLA", Colors Bangla
+https://broadcast.iptvchannels.workers.dev/live.m3u8?id=756
 
 
 
