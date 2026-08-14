@@ -204,8 +204,6 @@ https://kamrul-mc-ar-baki-bc-toder-baper-stream-monekore-user-kor.nurmd2006-offi
 https://broadcast.iptvchannels.workers.dev/live.m3u8?id=697
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="INDIAN BANGLA",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR9ViF2fhAJCjtYKxOw379wq6GWOBhsGllUGF5KX0d5CNXSXywf8UbvB2SzgSyE9Ktw36rWtCrqLrdeYmG2SF_lONpuCMNqh0QsxyFEyeEOvrYISSQHIF612yb00-7dcILywJwJP4h0jQvWMQvCbtRYIRrQFmDCEQ9Sr3A5z1z-tT4gc75mQ41H_-baA/s1080/1000063971.png" group-title="INDIAN BANGLA", Zee Bangla Cine. In
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Republic-bangla.png" group-title="INDIAN BANGLA", Republic Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZIcQZJsxykDxq660jvKNkeFjXlP-LkyFAjcsP_cYyIsm8pWpAjqSLChu&s=10" group-title="INDIAN BANGLA", Kolkata TV
@@ -220,6 +218,7 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="INDIAN BANGLA", Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="INDIAN BANGLA",Zee Bangla
 http://103.159.180.34:5001/live/625.m3u8
