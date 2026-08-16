@@ -442,8 +442,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png" group-title="SPORTS", Cricbuzz
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104670.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNIAr35LnhnKfOXkUkfCoq7kdW3iEuzyswOh42B-NBmddHDikjx07-0GFGosaMRFDYJbGbJ48Ek5u4SZuAYhEpMz3GaTnD0DzsL4zKQ02QOVH6-NNIpaYSA0Ggk0F9wBAh67D7OmccYkEhNscn_c_f10xbyk1A__f1HuNlkGuiwO3ABaVwM_-x9-EW6A/s1080/1000063373.png" group-title="SPORTS", DAZN
-https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd?drmScheme=clearkey&drmLicense=8bcec6b31cc9edcb6768ab26548e22c3%3Ae3c5b07328894c33734a4de6ae55a87f
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVJVdXD6NTy8nMOIOb_mqewV8NZMUjHdPog&s" group-title="SPORTS", DAZN Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
