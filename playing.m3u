@@ -3,9 +3,6 @@
 #         BANGLA
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png" group-title="BANGLA", BTV
-https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=47a5c1abe71b2c603eacc78d0145f4cc6b61ca54-7065fcb19262ffa0bae4e6c7293fd740-1786708115-1786697315
-
 #EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="BANGLA",Somoy TV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
