@@ -57,9 +57,6 @@ https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fub
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="SPORTS", Goal TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmVd8PAAluvC_pz-3NpA5kwjw3S-s3lBoy1RM6qyZa4-i6V9z-B7iY-4KDqZih96-CuhIQWjz79K_Fly-m_Ema0uYA7SLfwfm79qqk0s8X9T3heQ4wGPhx7sBA3_WMlTIZmToY4lkEyPL9QLQ-BHJnaltMcE9O7u6HG1DBqYAGnGVNS4WHPfplerohbQ/s1080/1000068153.png" group-title="SPORTS", M Sports HD
-https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8?wmsAuthSign=
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrocBlTK-xzDZj_IMaswwOaOAmBYBruj8ptNe7t7OGW9qsgzYGDpI82kPxFga5DEciOkZeigFyRPdm0BniiwiD5xxKAyQyba9RH1XDZqlcNroVvt3bIghzHgh-kk4PMX9JZAKgtWkQDRSaF8pTw7QLVeJ3WGHTqE6WMWJm6e01ZyKeEUe1kvOkSNre/s1080/1000068952.png" group-title="SPORTS", PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
@@ -653,6 +650,10 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1786803687:KeyName=prod_linear:Signature=79kU1kE8ne91zM1o4o4G6Tm2lPiorvdZVjmP9RPbiU_wBW575UJNQUZd-jC8wvlEjEhrVbyPjLn__LMLC-1KCQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmVd8PAAluvC_pz-3NpA5kwjw3S-s3lBoy1RM6qyZa4-i6V9z-B7iY-4KDqZih96-CuhIQWjz79K_Fly-m_Ema0uYA7SLfwfm79qqk0s8X9T3heQ4wGPhx7sBA3_WMlTIZmToY4lkEyPL9QLQ-BHJnaltMcE9O7u6HG1DBqYAGnGVNS4WHPfplerohbQ/s1080/1000068153.png" group-title="SPORTS", M Sports HD
+https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8?wmsAuthSign=
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png" group-title="HINDI", Sony Max SD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
