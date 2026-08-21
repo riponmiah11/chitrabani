@@ -615,6 +615,16 @@ https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3X9XytcH0vIGqSxO5H0TQKqk-wPJLcgr9tjfXBO6zm1cww024l-yyAdKttLSlcvmMxJLMefNHc-O_b8vCpiIWdTH7FYeokVBE-iGCfeA2VFEVVJQ1Qqp0gmps5z0JGrSqVREBDnzpz7Ao-zqteBd-2wPjRUxfgLpAbHiBFu2ZnU6rI7CGYIDjNdICg/s600/Nur_20251219_133628_0000.png" group-title="SPORTS", Star Sports Select 2
 https://s3.outflanktv.workers.dev/channel/ea25a516d781cb1c.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png" group-title="SPORTS", Cricbuzz
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104670.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="SPORTS", Ten Cricket
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="SPORTS", Sky Sports Cricket
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
+
 # ==========================================
 #          ISLAMIC
 # ==========================================
@@ -715,6 +725,9 @@ https://broadcast.iptvchannels.workers.dev/live.m3u8?id=3436
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqT4xroObzWmRD6CdhjGWrws3TYZFGzeAf4h_aH2mwBt6eV5gUuIqcIJT03fmzyA1vm_vSojUmCCbQXsv0jAHvD673QupWKEM2mpxxANEWMiFLgGzFPokNorKbEW7ddjZTfL4fbyaxZb1Jf0nYiMIu7QStJZaWPF5t_QDYW11uVkpjNk9lMj3YOqDhBw/s600/Nur_20251222_155425_0000.png" group-title="CARTOON/KIDS", POGO
 https://broadcast.iptvchannels.workers.dev/live.m3u8?id=559
+
+#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20cartoon.jpg?raw=true" group-title="CARTOON/KIDS", ZB Cartoon
+http://103.151.61.12/zbcatun/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 
 # ==========================================
 #          DOCUMENTARY
