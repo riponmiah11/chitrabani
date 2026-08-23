@@ -547,7 +547,6 @@ https://broadcast.iptvchannels.workers.dev/live.m3u8?id=248
 #          SPORTS
 # ==========================================
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuWqU0Dvt9BsOvdSe0aWvtjtK5Cq70vr2D1MZWhytGmgRFUORDOysyrOy&s=10" group-title="SPORTS", BAN VS AUS TEST MATCH STAR NETWORK
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 
