@@ -103,12 +103,11 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 https://server6.iptvchannels.workers.dev/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="BANGLA", BTV News HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="BANGLA", BTV News
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png" group-title="BANGLA", BTV News
 https://server6.iptvchannels.workers.dev/tV8mB2zP7rX4kL1w/index.m3u8
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="BANGLA", BTV CTG
 https://server6.iptvchannels.workers.dev/TjGR1GcxKetHNVcMVxbq/index.m3u8
