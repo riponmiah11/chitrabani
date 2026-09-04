@@ -326,7 +326,7 @@ https://broadcast.iptvchannels.workers.dev/live.m3u8?id=697
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="INDIAN BANGLA", Sun Bangla
 https://broadcast.iptvchannels.workers.dev/live.m3u8?id=1669
-http://27.124.71.27/Sun_Bangla/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZIcQZJsxykDxq660jvKNkeFjXlP-LkyFAjcsP_cYyIsm8pWpAjqSLChu&s=10" group-title="INDIAN BANGLA", Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/tracks-v3a1/mono.m3u8
