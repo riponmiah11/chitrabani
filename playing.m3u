@@ -387,15 +387,15 @@ http://polarbear.mov:80/live/9857855271/8369553594/693975.ts
 #          SPORTS
 # ==========================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuWqU0Dvt9BsOvdSe0aWvtjtK5Cq70vr2D1MZWhytGmgRFUORDOysyrOy&s=10" group-title="SPORTS", BAN VS AUS TEST MATCH STAR NETWORK
-https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="SPORTS", T Sports HD
+https://iptv.aethelcode.workers.dev/TnMn5kZz8aLm/index.m3u8
+http://103.185.24.134:3001/TSportsHD/index.m3u8
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/05/09/20250509042549016858_59.png" group-title="SPORTS", Cricbuzz
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104670.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="SPORTS", T Sports HD
-https://iptv.aethelcode.workers.dev/TnMn5kZz8aLm/index.m3u8
-http://103.185.24.134:3001/TSportsHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" group-title="SPORTS",PTV Sports HD
 https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
@@ -405,6 +405,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 http://polarbear.mov:80/live/9857855271/8369553594/694201.ts
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFJqjN4nfxkVw5lcWZhEe_AUk-DdkLuLZgb2idv3kZEiHPaVP7RNgk4hU4cfC-1z830otQdR_nLcarHrdSew3Cx9TylJ901V4CUAQtjeW6uP-6V-9Drdynyv8cJ75MJFP-zSEMChboJ3uPF8hL6F5rIJkQVS5wqh-NfbA2jjgg95gVlrg1VuByXbKhbg/s600/Nur_20251216_222037_0000.png" group-title="SPORTS", Star Sports 1
+https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
 http://polarbear.mov:80/live/9857855271/8369553594/694065.ts
@@ -418,13 +419,14 @@ http://polarbear.mov:80/live/9857855271/8369553594/694063.ts
 http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/PrLZryqH/Jio-TV.jpg" tvg-id="460" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="SPORTS",Star Sports Select 1 HD
-http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
 http://polarbear.mov:80/live/9857855271/8369553594/694062.ts
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=dsgdfgsdfgasf
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3X9XytcH0vIGqSxO5H0TQKqk-wPJLcgr9tjfXBO6zm1cww024l-yyAdKttLSlcvmMxJLMefNHc-O_b8vCpiIWdTH7FYeokVBE-iGCfeA2VFEVVJQ1Qqp0gmps5z0JGrSqVREBDnzpz7Ao-zqteBd-2wPjRUxfgLpAbHiBFu2ZnU6rI7CGYIDjNdICg/s600/Nur_20251219_133628_0000.png" group-title="SPORTS", Star Sports Select 2
+http://polarbear.mov:80/live/9857855271/8369553594/694061.ts
 http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
 https://s3.outflanktv.workers.dev/channel/ea25a516d781cb1c.m3u8
-http://polarbear.mov:80/live/9857855271/8369553594/694061.ts
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOtBqrUYPOwhCcOe6DsfthRdQf40rz636cFtvtCa1mhdSPHJX34moNI-3-DRrccq3GzdcgqonlAwKk8fh5iIXqB1R8UTQN33ZaYE9bfjDorq4UWCnkOb-rLqMdthJwYpwOnFukDD7IVF4TzDTjksgtjbssx_UMVytELS7i4YJj8SyqI9N17f7OjkYxw/s600/Nur_20251216_222037_0000.png" group-title="SPORTS", A Sports HD
 https://server7.iptvchannels.workers.dev/asports-bkp/index.m3u8
