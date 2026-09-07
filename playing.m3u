@@ -4,6 +4,16 @@
 #          BANGLA
 # ==========================================
 
+#EXTINF:-1 group-title="TOFFEE" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png",Toffee TV
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvffeeliveS5jb20=:Expires=1788955238:KeyName=prod_linear:Signature=e4F9P0BP6u2kVDIJRtbg44fCnl-2tUeoVefN-lh9wG3Y5vGUJzIGMJaSCtl_3eBYZHyiYxUnlfS97v772WjhAg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
+
+#EXTINF:-1 group-title="TOFFEE" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png",Toffee Movies
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvffeeliveS5jb20=:Expires=1788955238:KeyName=prod_linear:Signature=e4F9P0BP6u2kVDIJRtbg44fCnl-2tUeoVefN-lh9wG3Y5vGUJzIGMJaSCtl_3eBYZHyiYxUnlfS97v772WjhAg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3" group-title="BANGLA", Ekattor TV
 https://server6.iptvchannels.workers.dev/EWDrV5QskgarZEUBb3pU/index.m3u8
 
