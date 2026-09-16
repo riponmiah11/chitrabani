@@ -56,7 +56,7 @@ https://iptv.aethelcode.workers.dev/tgUzpPc9r6xw/index.m3u8
 
 
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-http://ziboflow.ott-king.top:8080/somoytv/video.m3u8?token=NO_IP_CHECKname="Independent TV" tvg-logo="https://cdn.itvbd.net/contents/themes/public/style/images/logo.png" group-title="BANGLA",Independent TV
-http://polarbear.mov:80/live/9857855271/8369553594/694014.ts
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 
 
 
@@ -91,19 +91,22 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 https://server6.iptvchannels.workers.dev/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="BANGLA", BTV
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="BANGLA", BTV News
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+https://btv.hridoytv-.workers.dev/news.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/20e835171a2d078ca6c678fc95bd4bbd" group-title="BANGLA", BTV CTG
-https://server6.iptvchannels.workers.dev/TjGR1GcxKetHNVcMVxbq/index.m3u8
+https://server6.iptvs.workers.dev/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="BANGLA", Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png" group-title="BANGLA", Boishakhi TV
-https://server6.iptvchannels.workers.dev/1d3uG9VCgrR9DRtWZM57/index.m3u8
+https://server6.iptvs.workers.dev/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="BANGLA", Enter TV
@@ -122,7 +125,7 @@ https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHANSi1vWD_6Q1aWLZTV0gYgxU4lPHlo7q6cntCxRHfYDdFaqHFK5Q6mT1gCt8SKJx3FS7SISSnW-RoNA1kK7_BOAtfWLvUJ38gBYFWjwYnEEFI0ktwXSbkw-UTM0G5yOrBjYSMpFdYNCnQrrr28cWJI9Ywe4mdydYdM2_wtvTt84-I2yA9Z_J_q5ZMg/s600/Nur_20251222_160020_0000.png" group-title="BANGLA", Bangla TV
-https://server6.iptvchannels.workers.dev/39ee93nUbCCmm5LsyD4t/index.m3u8
+https://server6.iptvs.workers.dev/39ee93nUbCCmm5LsyD4t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8knh34Z5/iju-Jfmd.png" group-title="BANGLA", News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
@@ -154,8 +157,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhggNJZryKZBOJMAqBatnlBb8ItdDnZqIhKeM-1r8KddQBlmR_mTjjOAVexXkuhN0Ca-dYR8Cw6Ce9rYUgHmXyA8SJys-4iyyjbtwQ4ng45gcLp0gP6GhTcRWXtyv52P-UIGrKk6BsDvpGeyI8JTmSFXRO2I-UqMJXrrZEEIKaJ23r4Py2QKEEzqrsG3A/s600/Nur_20251226_221542_0000.png" group-title="BANGLA", MeTV
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtnuvV4vTzFin1hlXQbFw59taOU031Zkye4daul9x0_zF4qi92wGfeA8Or7cvQ_-CJ6wIXRHjQZ_qgUjLxaWfp6AjYQKPupf6FC_fYhwLmrQwTybGidTy1HaXxMpwUH8Cr7W_NuOSx7hSKgbLCGGqfR4ojWwqfvBZNiM1siP6YSHgfZFO1dGbzhhx1/s1080/1000068843.png" group-title="BANGLA", Channel 52
-https://server6.iptvchannels.workers.dev/channel52/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtnuvV4vTzFin1hlXQbFw59taOU031Zkye4daul9x0_zF4qi92wGfeA8Or7cvQ_-CJ6wIXRHjQZ_qgUjLxaWfp6AjYQKPupf6FC_fYhwLmrQwTybGidTy1HaXxMpwUH8Cr7W_NuOSx7hSKgbLCGGqfR4ojWwqfvBZNiM1siP6YSHgfZFO1dGbzhhx1/s1080/1000068843.png" group-title="BANGLA",  52
+https://server6.iptvs.workers.dev/52/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvRKqw2VBOYcRNNIzfFiZG-wYHZTozKovU0NJ83deDfxk8U9wp7M55Ylsr9sjh-X0Y-q2z6eSjh72AW47uTmvff7AjlInC0Xut9_b2lHp3e18vHm1cZgdsQtwg98jghSftB-sR4FyO7KnJa4iOt9FSNUaq-85_ibG-F4Ccg88FOwxiKNgRjk_Phm7iWg/s1080/1000068154.png" group-title="BANGLA", Millinium TV USA
 https://iptv.outflanktv.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/tracks-v1a1/mono.m3u8
@@ -190,7 +193,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxbAnms3wM7UTOyW4sw_5xIwsquoNHfi2OL-Gu0eLQ4gitnTwa-nzPxB9US9xThsmSZOpIUkS68z6ci50Bh6teWC5F174ctf1SsL57oYKNYLvm3ANR7q3qW6mU4mpnNpkDhgZt6oV9jprs6zgIul_GrAcmQZqIKzg64KHZS6ULaBpg-5F_V10Q5znxg/s1080/1000019126.png" group-title="BANGLA", Channel S UK
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxbAnms3wM7UTOyW4sw_5xIwsquoNHfi2OL-Gu0eLQ4gitnTwa-nzPxB9US9xThsmSZOpIUkS68z6ci50Bh6teWC5F174ctf1SsL57oYKNYLvm3ANR7q3qW6mU4mpnNpkDhgZt6oV9jprs6zgIul_GrAcmQZqIKzg64KHZS6ULaBpg-5F_V10Q5znxg/s1080/1000019126.png" group-title="BANGLA",  S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="BANGLA", Ruposhi Bangla
@@ -239,6 +242,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 # ==========================================
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPZdDXbsGeDOGhPC-Og7bXRrJxsbaFnZ1IEVB7-bPsJtpvNE9IhcMv0Q5OnUq5GCK9UqE7mzMCZinQaN1NSjk2wqKQFs_dreX5yGnDiXNju5yYT_9BDLC3dThhXRIfKk5XQGNc4oi6qWO3fvw5-9dqydLf6pvyHsq5cske3F1FKKih75cCUk20OKVymg/s600/Nur_20251216_222101_0000.png" group-title="INDIAN BANGLA", Star Jalsha
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 http://polarbear.mov:80/live/9857855271/8369553594/693982.ts
 
 
@@ -278,10 +282,12 @@ https://kamrul-mc-ar-baki-bc-toder-baper-stream-monekore-user-kor.nurmd2006-offi
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="INDIAN BANGLA",Zee Bangla
-http://103.165.93.31:8095/zeeBangla/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgktJAGGIfEildMH1tn_0ygd9fed8QCpJuk0cR9IYjeHsQcTLch6tmGTw4b53x_9Nw53sGHcNRXbvHSrskujpP3mFcJd1h_bXOb41B9kGNUqwDH5Xm8UVNghDBKipzRqr8IWBA2iGugnRqL0lL6p2HV3x4Y94VJdVnBnz9FL6vTXRD2hiybsV9bbnV_zA/s600/Nur_20251222_155327_0000.png" group-title="INDIAN BANGLA", Sony Aath
+https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
 http://103.165.93.31:8095/sonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="INDIAN BANGLA", Sun Bangla
