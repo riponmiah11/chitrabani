@@ -765,6 +765,9 @@ https://torongoplus.vercel.app/live/ilmtv.m3u8
 #         CARTOON/KIDS
 # ==========================================
 
+#EXTINF:-1 tvg-logo="img/channels/DURANTA TV.png" group-title="CARTOON/KIDS",DURANTA
+http://198.195.239.50:8095/duranta/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWh27tjd1FNVAOPSX0USYijfaEyINTkfaG0cPk8rzg61aDbyXSp2tBqxIb84p8UyhJLLNiDNC59fZD90u2gn52piHfUmy-ULyeZbf_mkRGvJKVKdwLYSOPiLEQJV2p8uvgVK-PB8ADIGcGotQOnNqrp4gTasKVqoxJ3sbt-77SeKqG-0frt2nLktDXlw/s600/Nur_20251216_230322_0000.png" group-title="CARTOON/KIDS", Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
