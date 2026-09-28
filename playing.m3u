@@ -243,16 +243,16 @@ https://ranacable.duckdns.org/UpoharBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Prime_Bangla.jpeg" group-title="IPTV",Prime Bangla
 https://ranacable.duckdns.org/Bprimebangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_cable.png" group-title="IPTV",Rana Cable TV
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_Cable.jpg" group-title="IPTV",Rana Cable TV
 https://ranacable.duckdns.org/RanaCableTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_cable.png" group-title="IPTV",Rana Cable Music
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_Cable.jpg" group-title="IPTV",Rana Cable Music
 https://ranacable.duckdns.org/RanaCableMusic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_cable.png" group-title="IPTV",Bhakti Sagar
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_Cable.jpg" group-title="IPTV",Bhakti Sagar
 https://ranacable.duckdns.org/BhaktiSagor/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_cable.png" group-title="IPTV",Rana Cable Movie
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_Cable.jpg" group-title="IPTV",Rana Cable Movie
 https://ranacable.duckdns.org/RanaMovie/index.m3u8
 
 # ==========================================
