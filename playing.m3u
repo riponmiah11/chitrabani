@@ -249,6 +249,28 @@ https://ranacable.duckdns.org/BhaktiSagor/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_Cable.jpg" group-title="IPTV",Rana Cable Movie
 https://ranacable.duckdns.org/RanaMovie/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="IPTV", NDTV Lanka
+https://2nbyjqobd53k-hls-live.5centscdn.com/NDTVLANKA/4a4cbdb26459f841c90bdd104d607252.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IPTV", Matribhumi
+https://live.playmax.live/matribhumi/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IPTV", Jalsha Bangla
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IPTV", Sonar Bangla
+https://mumt04.tangotv.in/m18aqlK4SONARBANGLA/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IPTV", USB 24 News
+https://stream.channeleuropetvboxlondon.co.uk/live/nextplanet/chunklist_w598636500.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IPTV", IBTV
+https://cdn.livestreambd.com/IBTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IPTV", CTV USA
+https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
+
 # ==========================================
 #         INDIAN BANGLA
 # ==========================================
