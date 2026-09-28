@@ -228,6 +228,34 @@ https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
 # ==========================================
+#        IPTV
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Alo_TV.jpeg" group-title="IPTV",Alo TV
+https://ranacable.duckdns.org/AloTv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Zodiak_TV.jpeg" group-title="IPTV",Zodiak TV
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Upohar_Bangla.jpeg" group-title="IPTV",Upohar Bangla
+https://ranacable.duckdns.org/UpoharBangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Prime_Bangla.jpeg" group-title="IPTV",Prime Bangla
+https://ranacable.duckdns.org/Bprimebangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_cable.png" group-title="IPTV",Rana Cable TV
+https://ranacable.duckdns.org/RanaCableTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_cable.png" group-title="IPTV",Rana Cable Music
+https://ranacable.duckdns.org/RanaCableMusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IPTV",Bhakti Sagar
+https://ranacable.duckdns.org/BhaktiSagor/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.chitrabani24.com/logos/Rana_cable.png" group-title="IPTV",Rana Cable Movie
+https://ranacable.duckdns.org/RanaMovie/index.m3u8
+
+# ==========================================
 #         INDIAN BANGLA
 # ==========================================
 
