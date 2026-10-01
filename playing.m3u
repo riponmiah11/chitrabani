@@ -271,6 +271,206 @@ https://cdn.livestreambd.com/IBTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IPTV", CTV USA
 https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Bhi Channel" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Bhi Channel
+https://server.thelegitpro.in/bhichannel/bhichannel/index.m3u8
+
+#EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Golobe TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Golobe TV
+https://globetv.livebox.co.in/globetvhls/live.m3u8
+
+#EXTINF:-1 tvg-name="Sahor Barta Khabor" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Sahor Barta Khabor
+https://network24.live:4433/SahorBartakhabor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="NGC HD" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",NGC HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8
+
+#EXTINF:-1 tvg-name="Hi Dost" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Hi Dost
+https://cdn-1.pishow.tv/live/224/master.m3u8
+
+#EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Jalsha Movies
+http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Colors Bangla" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Colors Bangla
+http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Ekhon Kolkata" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Ekhon Kolkata
+https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
+
+#EXTINF:-1 tvg-name="Debjit TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Debjit TV
+https://playontv.online/debjit/live/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 3518" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Channel 3518
+http://103.180.212.191:3500/live/3518.m3u8
+
+#EXTINF:-1 tvg-name="Ad Stream 1" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Ad Stream 1
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-name="GIA TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",GIA TV
+https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Balaji 1657" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Balaji 1657
+http://live.balajibroadband.com:3500/live/1657.m3u8
+
+#EXTINF:-1 tvg-name="Balaji 3518" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Balaji 3518
+http://live.balajibroadband.com:3500/live/3518.m3u8
+
+#EXTINF:-1 tvg-name="News 8 Live" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",News 8 Live
+https://playontv.online/news8live/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-name="BTV Live" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",BTV Live
+https://playontv.online/btvlive/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-name="Assam Talks" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Assam Talks
+http://tvsen7.aynascope.net/AssamTalks/index.m3u8
+
+#EXTINF:-1 tvg-name="Onkar News" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Onkar News
+https://stream.ottlive.co.in/onkarnews/index.m3u8
+
+#EXTINF:-1 tvg-name="Express News" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Express News
+https://59nyq44elwap-hls-live.5centscdn.com/Express/dd1ba1872df91985ed1ca4cde2dfe669.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Balaji 1740" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Balaji 1740
+http://live.balajibroadband.com:3500/live/1740.m3u8
+
+#EXTINF:-1 tvg-name="Channel 1740" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Channel 1740
+http://103.180.212.191:3500/live/1740.m3u8
+
+#EXTINF:-1 tvg-name="Sananda TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Sananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Shemaroo TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Sony Aath
+http://103.151.61.12/SONY_AATH/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+
+#EXTINF:-1 tvg-name="Epic Bhojpuri" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Epic Bhojpuri
+https://live-epicbhojpuri-samsungtv.videostech.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Live" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",TV9 Live
+https://tv9live.yuppcdn.net/vglive-sk-349214/v1/019dfcc139501567ee93770f7da98/019dfcc65a271ea55784752988543/main.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Bangla" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pratham Khabar 24x7" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Pratham Khabar 24x7
+https://live.legitpro.co.in/prathamkhabar24x7/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-name="Unknown Live 1" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Unknown Live 1
+https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-name="Punjabi Hits" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Punjabi Hits
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-name="Home Tv" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Home Tv
+http://115.187.41.216:8080/hls/hometv/index.m3u8
+
+#EXTINF:-1 tvg-name="Amar Bangla" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Amar Bangla
+http://live.dataplayer.in:8080/live/amarbangla.m3u8
+
+#EXTINF:-1 tvg-name="Riddhi Network Live" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Riddhi Network Live
+https://playontv.online/riddhinetworklive/index.m3u8
+
+#EXTINF:-1 tvg-name="D Bangla Live 24X7" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",D Bangla Live 24X7
+https://uttar-purbanewsmedia.cloud/hls/dbangla/dbangla_live24X7/index.m3u8
+
+#EXTINF:-1 tvg-name="RCTV Sangbad" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",RCTV Sangbad
+https://rctvraiganj.in/live/sangbad/index.m3u8
+
+#EXTINF:-1 tvg-name="RCTV Rai Bangla" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",RCTV Rai Bangla
+https://rctvraiganj.in/live/raibangla/index.m3u8
+
+#EXTINF:-1 tvg-name="RCTV Ent" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",RCTV Ent
+https://rctvraiganj.in/live/rctvent/index.m3u8
+
+#EXTINF:-1 tvg-name="RCTV Balurghat" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",RCTV Balurghat
+https://rctvraiganj.in/live/balurghat/index.m3u8
+
+#EXTINF:-1 tvg-name="ZB Bhakti Sagar" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",ZB Bhakti Sagar
+https://server.zillarbarta.com/zbbhaktisagar/index.m3u8
+
+#EXTINF:-1 tvg-name="D24 Live" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",D24 Live
+https://uttar-purbanewsmedia.cloud/hls/d24/d24live/index.m3u8
+
+#EXTINF:-1 tvg-name="TS Stream 45" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",TS Stream 45
+http://103.67.97.45:81/0.ts
+
+#EXTINF:-1 tvg-name="TS Stream 46" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",TS Stream 46
+http://103.67.97.46:80/0.ts
+
+#EXTINF:-1 tvg-name="TS Stream 44" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",TS Stream 44
+http://103.67.97.44:82/0.ts
+
+#EXTINF:-1 tvg-name="TS Stream 139" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",TS Stream 139
+http://202.142.126.139:8086/0.ts
+
+#EXTINF:-1 tvg-name="TS Stream 138" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",TS Stream 138
+http://202.142.126.138:8086/0.ts
+
+#EXTINF:-1 tvg-name="TS Stream 198" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",TS Stream 198
+http://150.129.178.198:8086/0.ts
+
+#EXTINF:-1 tvg-name="Sara Bangla Live" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Sara Bangla Live
+https://live-stream.utkalbongo.com/utkalbongo/stream3/hls/sarabanglalive.m3u8
+
+#EXTINF:-1 tvg-name="3M Jaan Bangla HLS" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",3M Jaan Bangla HLS
+http://live.dataplayer.in:8080/live/3mjaanbangla.m3u8
+
+#EXTINF:-1 tvg-name="3M Jaan Bangla RTMP" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",3M Jaan Bangla RTMP
+rtmp://live.dataplayer.in:1935/live/3mjaanbangla
+
+#EXTINF:-1 tvg-name="Maya TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Maya TV
+rtmp://94.136.184.69:1935/static/mayatv
+
+#EXTINF:-1 tvg-name="CDO Sadri" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",CDO Sadri
+https://cdotvlive.in/CDOSADRIhls/stream.m3u8
+
+#EXTINF:-1 tvg-name="CDO Network" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",CDO Network
+https://cdotvlive.in/CDONETWORKhls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Junglemahal Live" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Junglemahal Live
+https://live-stream.utkalbongo.com/utkalbongo/stream8/hls/junglemahallive.m3u8
+
+#EXTINF:-1 tvg-name="Raatdin Bangla" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Raatdin Bangla
+https://server.playontv.in/raatdinbangla/index.m3u8
+
+#EXTINF:-1 tvg-name="Raatdin Tripura" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Raatdin Tripura
+https://server.playontv.in/raatdintripura/index.m3u8
+
+#EXTINF:-1 tvg-name="Nation News" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Nation News
+https://server.playontv.in/nationnews/index.m3u8
+
+#EXTINF:-1 tvg-name="Swastik Tv" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Swastik Tv
+https://server.playontv.in/swastiktv/index.m3u8
+
+#EXTINF:-1 tvg-name="Gram Bangla" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Gram Bangla
+rtmp://live.dataplayer.in:1935/live/grambangla
+
+#EXTINF:-1 tvg-name="Bhakti Bangla" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Bhakti Bangla
+http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
+
+#EXTINF:-1 tvg-name="Salam Bangla" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Salam Bangla
+http://115.187.41.216:8080/hls/salambangla/index.m3u8
+
+#EXTINF:-1 tvg-name="Digital Fashion" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Digital Fashion
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
+
+#EXTINF:-1 tvg-name="Sananda TV New" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",Sananda TV New
+http://115.187.41.216:8080/hls/sanandatv/index.m3u8
+
+#EXTINF:-1 tvg-name="SA Cartoon" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",SA Cartoon
+https://network24.live:4433/sacartoontv/index.m3u8
+
+#EXTINF:-1 tvg-name="ARYA Music TV" tvg-logo="https://tv.chitrabani24.com/logos/Chitra_IPTV.jpg" group-title="IPTV",ARYA Music TV
+https://network24.live:4433/aryatv/index.m3u8
+
 # ==========================================
 #         INDIAN BANGLA
 # ==========================================
